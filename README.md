@@ -6,4 +6,4 @@ So you missed out on learning about hashes and arrays? That's cool. Here are a f
 
 + [CodeAcademy Histogram](http://www.codecademy.com/courses/ruby-beginner-en-693PD/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
-+[CodeAcademy Symbols](http://www.codecademy.com/courses/ruby-beginner-en-Qn7Qw/0/1?curriculum_id=5059f8619189a5000201fbcb)
++ [CodeAcademy Symbols](http://www.codecademy.com/courses/ruby-beginner-en-Qn7Qw/0/1?curriculum_id=5059f8619189a5000201fbcb)
