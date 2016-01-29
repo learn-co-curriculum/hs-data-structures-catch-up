@@ -7,4 +7,4 @@
 
 + [CodeAcademy Symbols](http://www.codecademy.com/courses/ruby-beginner-en-Qn7Qw/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
-<a href='https://learn.co/lessons/hs-data-structures-catch-up' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-data-structures-catch-up' title='Study Up on Data Structures!'>Study Up on Data Structures!</a> on Learn.co and start learning to code for free.</p>
